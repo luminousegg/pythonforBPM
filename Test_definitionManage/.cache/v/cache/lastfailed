@@ -1,0 +1,5 @@
+{
+  "test_definitionManage.py::TestCase_definitionManger::test_disableDefinition": true, 
+  "test_definitionManage.py::TestCase_definitionManger::test_getDefinitionListAll": true, 
+  "test_definitionManage.py::TestCase_definitionManger::test_getDefinitionStatus": true
+}
